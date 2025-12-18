@@ -23,3 +23,7 @@ pyTelegramBotAPI (TeleBot)
 SQLite3 (встроенная база данных)
 
 Стандартные библиотеки Python
+
+ВОТ ПРИМЕР ИСПОЛЬЗОВАНИЯ:
+<img width="661" height="425" alt="image" src="https://github.com/user-attachments/assets/50f87eff-53b6-4250-9c37-aec0554e5da9" />
+
